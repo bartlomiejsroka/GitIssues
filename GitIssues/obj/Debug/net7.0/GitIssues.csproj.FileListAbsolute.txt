@@ -1,0 +1,12 @@
+C:\Users\Bartek\source\repos\GitIssues\GitIssues\bin\Debug\net7.0\GitIssues.deps.json
+C:\Users\Bartek\source\repos\GitIssues\GitIssues\bin\Debug\net7.0\GitIssues.dll
+C:\Users\Bartek\source\repos\GitIssues\GitIssues\bin\Debug\net7.0\GitIssues.pdb
+C:\Users\Bartek\source\repos\GitIssues\GitIssues\obj\Debug\net7.0\GitIssues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\source\repos\GitIssues\GitIssues\obj\Debug\net7.0\GitIssues.AssemblyInfoInputs.cache
+C:\Users\Bartek\source\repos\GitIssues\GitIssues\obj\Debug\net7.0\GitIssues.AssemblyInfo.cs
+C:\Users\Bartek\source\repos\GitIssues\GitIssues\obj\Debug\net7.0\GitIssues.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\GitIssues\GitIssues\obj\Debug\net7.0\GitIssues.dll
+C:\Users\Bartek\source\repos\GitIssues\GitIssues\obj\Debug\net7.0\refint\GitIssues.dll
+C:\Users\Bartek\source\repos\GitIssues\GitIssues\obj\Debug\net7.0\GitIssues.pdb
+C:\Users\Bartek\source\repos\GitIssues\GitIssues\obj\Debug\net7.0\ref\GitIssues.dll
+C:\Users\Bartek\source\repos\GitIssues\GitIssues\obj\Debug\net7.0\GitIssues.csproj.AssemblyReference.cache
